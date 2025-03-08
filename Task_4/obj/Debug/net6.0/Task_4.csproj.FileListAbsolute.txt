@@ -1,0 +1,15 @@
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\bin\Debug\net6.0\Task_4.exe
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\bin\Debug\net6.0\Task_4.deps.json
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\bin\Debug\net6.0\Task_4.dll
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\bin\Debug\net6.0\Task_4.pdb
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.dll
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\refint\Task_4.dll
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.pdb
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
+C:\Users\OLEG\Desktop\C#\Lesson_1\Task_4\obj\Debug\net6.0\ref\Task_4.dll
